@@ -1,0 +1,25 @@
+Prediction,Reference,Freq
+0,0,219
+1,0,112
+0,1,7
+1,1,55
+,,
+Accuracy,0.7,
+Kappa,0.33,
+AccuracyLower,0.65,
+AccuracyUpper,0.74,
+AccuracyNull,0.84,
+AccuracyPValue,1,
+McnemarPValue,0,
+,,
+Sensitivity,0.89,
+Specificity,0.66,
+Pos Pred Value,0.33,
+Neg Pred Value,0.97,
+Precision,0.33,
+Recall,0.89,
+F1,0.48,
+Prevalence,0.16,
+Detection Rate,0.14,
+Detection Prevalence,0.42,
+Balanced Accuracy,0.77,
