@@ -45,4 +45,4 @@ For the full code with comments please see the /final_project.md!
 
 ### results
 
-We decided that the overall accuracy for the prediction of a match is not the most relevant. We concluded that the Recal is the most important performance metric, since we think that it is better to predict a match that is not a match than the other way around, so that the participants won't lose their opportunity of meeting again. This let us choose a lower threshhold, than if we had tried to optimize our estimator for the highest accuracy. In the end our accuracy was 74.81%, however we achieved a Recall of 79.03%.
+We decided that the overall accuracy for the prediction of a match is not the most relevant. We concluded that the Recal is the most important performance metric, since we think that it is better to predict a match that is not a match than the other way around, so that the participants won't lose their opportunity of meeting again. This let us choose a lower threshhold, than if we had tried to optimize our estimator for the highest accuracy. In the end our accuracy was 74.81%, however we achieved a Recall of 80.65%.
